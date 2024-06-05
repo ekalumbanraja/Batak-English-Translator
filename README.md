@@ -1,1 +1,1 @@
-# Kamus Batak-English
+# Batak-English Translator
